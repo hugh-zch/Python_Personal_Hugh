@@ -1,10 +1,10 @@
 '''
 Author: your name
 Date: 2021-06-14 19:32:43
-LastEditTime: 2021-06-14 20:00:50
+LastEditTime: 2021-06-14 23:06:48
 LastEditors: your name
 Description: 
-FilePath: \003_GitProject\Python\SystemOperation\01Read_FileName.py
+FilePath: \003_GitProject\Python\Python_Personal_Hugh\SystemOperation\01Read_FileName.py
 可以输入预定的版权声明、个性签名、空行等
 '''
 #coding=utf-8
